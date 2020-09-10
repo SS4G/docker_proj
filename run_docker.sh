@@ -1,0 +1,1 @@
+docker run  --rm -it -p 6379:6379 redis # 运行redis docker
